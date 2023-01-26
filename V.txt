@@ -1,0 +1,8 @@
+6
+JFK,New York
+BWI,Balimore
+DCA,Washington DC
+SFO,San Fransico
+CHI,Chicago
+DAL,Texas
+
